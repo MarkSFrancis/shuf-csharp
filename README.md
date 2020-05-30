@@ -1,2 +1,2 @@
 # shuf-csharp
-A C# implementation of shuf
+A C# implementation of the UNIX coreutils app [shuf](https://www.mankier.com/1/shuf)
