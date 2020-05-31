@@ -25,7 +25,7 @@ To get 4 random values from a file in the same folder called `in.txt`
 dotnet run --input ./in.txt -n 4
 ```
 
-### Input.txt
+### in.txt
 ```
 item1
 item2
